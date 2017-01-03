@@ -1,0 +1,10 @@
+The following barcodes were not retrieved for any survey:
+000030770	Sample not logged
+000030773	Sample not logged
+000030776	Sample not logged
+000030777	Sample not logged
+000030778	Sample not logged
+000030766	Sample not logged
+000030768	Sample not logged
+000030781	Sample not logged
+000030780	Sample not logged
