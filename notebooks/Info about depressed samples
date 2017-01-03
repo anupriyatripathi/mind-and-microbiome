@@ -1,0 +1,12 @@
+Unrarefied metadata (266 samples)
+17 samples in bin_bdi21=3: 17076,23392,26138,26140,26120,30754,30760,30764,36100,36068,36431,36403,36424,36395,36927,36929,36951
+6 samples in bdi_bin21=4: 17103,17113,17097,26133,30769,36923
+
+Rarefied metadata @ 10k (207 samples)
+12 samples in bin_bdi21=3: 17076,23392,26138,26140,26120,30754,30760,30764,36100,36068,36395,36927
+4 samples in bin_bdi21=4: 17103,17113,17097,26133
+
+lost samples in bin_bdi21=3 : 36431,36403 belong to the 9 samples that have not been sequenced yet
+                              36424,36951 not in agp biom table but not a part of the 9 unsequenced samples
+                              36951 just has 2.0 seqs (failed sequencing essentially)
+lost samples in bin_bdi21=4: 36769, 36923 not in agp biom table but not a part of the 9 unsequenced samples
